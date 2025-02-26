@@ -1,4 +1,4 @@
-# NerdyNotes - Markdown Notes for Developers, by
+# NerdyNotes - Markdown Notes for Developers, by 3
 
 A dedicated note-taking app designed specifically for developers, featuring markdown support, code syntax highlighting, and GitHub integration.
 
