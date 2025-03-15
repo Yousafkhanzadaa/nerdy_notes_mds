@@ -103,5 +103,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Flutter](https://flutter.dev/) - UI framework
 - [Riverpod](https://riverpod.dev/) - State management
 - [GitHub API](https://docs.github.com/en/rest) - GitHub integration
+
+
 - [flutter_markdown](https://pub.dev/packages/flutter_markdown) - Markdown rendering
 - [flutter_highlight](https://pub.dev/packages/flutter_highlight) - Code highlighting
